@@ -1,0 +1,2 @@
+axes = +left stick left, +left stick up, +rt stick up ,+rt stick left ,+left,+up
+buttons = 1,2,3,4,l1,r1,l2,r2,select,start,l3,r3
